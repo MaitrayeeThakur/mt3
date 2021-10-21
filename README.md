@@ -5,8 +5,6 @@
 </head>
 <body>
 <div id="header">
-<p id="name">Maitrayee Thakur</p>
-         <a href="maitrayee2407@gmail.com" target="_blank"><p id="email">maitrayee2407@gmail.com</p></a>
      </div>
      <div class="left">
      </div>
